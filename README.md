@@ -1,1 +1,1 @@
-# formance-js-example
+# formance-ledger-example
